@@ -295,6 +295,7 @@ body {
 
   .hero {
     padding: 4rem 1rem;
+    width: 100%;
   }
 
   .menu-items {
@@ -317,8 +318,12 @@ body {
   .logo img {
     width: 80px;
     height: 80px;
-  }
 
+  }
+.section-title{
+  font-size: 1.5rem;
+
+}
   .header {
     flex-direction: column;
     text-align: center;
@@ -338,8 +343,8 @@ body {
   }
 
   .menu-item {
-    width: 100%;
-    margin-bottom: 1rem;
+    
+    margin: auto;
   }
 
   .contact form {
