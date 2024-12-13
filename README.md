@@ -1,4 +1,4 @@
-# Sistema de Gestión para Tiendas
+# Ambrosia
 
 ## Descripción
 El "Sistema de Gestión para Tiendas" es una aplicación web diseñada para ayudar a los administradores o dueños de tiendas a gestionar productos, servicios y clientes. El sistema ofrece funcionalidades como la creación y listado de productos, el registro de clientes, y opciones de visualización de estadísticas básicas. La página de inicio es personalizada según la temática seleccionada por el equipo, como recetas, tecnología, ropa, entre otras.
